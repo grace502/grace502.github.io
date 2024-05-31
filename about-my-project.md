@@ -1,8 +1,8 @@
 ## About My Project
 
-mBot Neo
+AI Approaches to classify COVID-19 related PTSD
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: There is a lack of research on how COVID-19 affects the population in related PTSD 
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
