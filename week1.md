@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Iyinoluwa Ayodele
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
+What you accomplished  
+The results you achieved
+The findings you made
+The algorithms you used
+Any issues or frustrations you encountered 
+Any other relevant experiences or insights gained during the week
+
+
 
 [Back](./)
